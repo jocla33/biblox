@@ -1,30 +1,21 @@
 Biblox é uma aplicação web desenvolvida em Django para organização de pequenos acervos de livros. A solução permite cadastrar, listar, editar e excluir obras, além de controlar o status de disponibilidade (disponível ou emprestado).
 
+📌 Sobre o Projeto  
+Sistema para organizar pequenos acervos de livros: cadastro, busca, controle de disponibilidade (disponível/emprestado) e gestão simples de empréstimos.  
 
+| 🔖 Disciplina | Fundamentos de Desenvolvimento de Software |  
 
-📖 Sobre o Projeto
-Problema
-Pequenos acervos (bibliotecas pessoais, de condomínios, escolas ou pequenas comunidades) carecem de um controle simples e eficiente para gerenciar livros emprestados e disponíveis.
-
-Objetivo
-Oferecer um sistema leve, acessível e responsivo, publicado na Azure, para facilitar a organização de bibliotecas sem a complexidade de sistemas enterprise.
-
-✨ Funcionalidades
-✅ Cadastro de livros com informações completas (título, autor, ISBN, etc.)
-
-✅ Listagem organizada do acervo completo
-
-✅ Edição e exclusão de obras cadastradas
-
-✅ Controle de status (Disponível/Emprestado)
-
-✅ Design responsivo que se adapta a diferentes dispositivos
-
-✅ Interface intuitiva e de fácil utilização
-
-✅ Busca e filtros para localização rápida de livros
-
-✅ Sistema de empréstimo com data de retorno prevista
+👥 Integrantes do Grupo  
+João Cláudio Cavalcanti Beltrão Filho
+Marco Antonio Veras Sanson e Souza
+João Lucas de Oliveira Gonçalves Baima
+  
+  
+🎯 Objetivo:
+📚 Cadastrar e listar livros;  
+🔍 Pesquisar e filtrar por título, autor ou status;  
+✅ Controlar disponibilidade (disponível/emprestado);  
+🌐 Publicar aplicação web responsiva em Django, com banco de dados (SQLite/PostgreSQL) e deploy na Azure.
 
 
 
